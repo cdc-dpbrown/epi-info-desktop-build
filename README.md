@@ -9,5 +9,5 @@ To **build a release** version Epi Info 7 without updating the version run the f
 
 # Example
 git clone https://github.com/cdc-dpbrown/epi-info-desktop-build.git build  
-cd build
+cd build   
 epi-info-scorched-earth-build.bat q
